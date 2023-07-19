@@ -1,4 +1,4 @@
-//use HashMap in java or unordered list in C++ (two for loops gives TLE)
+//use HashMap in java or unordered set in C++ (two for loops gives TLE)
 class Solution {
 public:
     int minimumCardPickup(vector<int>& cards) {
